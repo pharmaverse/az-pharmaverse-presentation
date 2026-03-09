@@ -7,18 +7,18 @@
     "text": "About the Speaker\n\n[Your Name]\nRole / Team\nShort bio — what you do, your connection to the pharmaverse community, and why you’re excited to share this today."
   },
   {
+    "objectID": "index.html#todays-agenda",
+    "href": "index.html#todays-agenda",
+    "title": "Welcome to the pharmaverse!",
+    "section": "Today’s Agenda",
+    "text": "Today’s Agenda\nWe’ll explore the key pharmaverse resources that can help streamline clinical reporting at AstraZeneca.\n\n\nResources We’ll Cover\n\n\n\n#\nResource\nWhat it is\n\n\n\n\n1️⃣\npharmaverse.org\nCentral hub for curated R packages\n\n\n2️⃣\npharmaverse Examples\nEnd-to-end worked clinical examples\n\n\n3️⃣\npharmaverse Blog\nCommunity-driven knowledge sharing\n\n\n4️⃣\nadmiral\nADaM dataset construction toolkit\n\n\n5️⃣\npharmaverse Data Packages\nTest SDTM & ADaM datasets\n\n\n\n\n\n\n\n\n\n\n🗺️ Live Tour at the End!\n\n\nAfter walking through each resource, we’ll go on a live tour of all of them — so this is just to set the stage for what’s coming!"
+  },
+  {
     "objectID": "index.html#the-pharmaverse-organisation",
     "href": "index.html#the-pharmaverse-organisation",
     "title": "Welcome to the pharmaverse!",
     "section": "The pharmaverse Organisation",
-    "text": "The pharmaverse Organisation"
-  },
-  {
-    "objectID": "index.html#what-is-the-pharmaverse",
-    "href": "index.html#what-is-the-pharmaverse",
-    "title": "Welcome to the pharmaverse!",
-    "section": "What is the pharmaverse?",
-    "text": "What is the pharmaverse?\n\n\n\npharmaverse.org\ngithub.com/pharmaverse\n\nThe pharmaverse is a council of companies working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting.\nWhy it matters\n\nReduces duplicated effort across companies\nProvides opinionated, curated package recommendations\nCovers the end-to-end clinical reporting pipeline: SDTM → ADaM → TLGs\nFreely available to the entire industry"
+    "text": "The pharmaverse Organisation\nResource 1\n\n\n\npharmaverse.org\ngithub.com/pharmaverse\n\nThe pharmaverse is a council of companies working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting.\nWhy it matters\n\nReduces duplicated effort across companies\nProvides opinionated, curated package recommendations\nCovers the end-to-end clinical reporting pipeline: SDTM → ADaM → TLGs\nFreely available to the entire industry"
   },
   {
     "objectID": "index.html#pharmaverse.org-github-org",
@@ -32,14 +32,7 @@
     "href": "index.html#pharmaverse-examples",
     "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Examples",
-    "text": "pharmaverse Examples"
-  },
-  {
-    "objectID": "index.html#what-are-the-pharmaverse-examples",
-    "href": "index.html#what-are-the-pharmaverse-examples",
-    "title": "Welcome to the pharmaverse!",
-    "section": "What are the pharmaverse Examples?",
-    "text": "What are the pharmaverse Examples?\n\n\n\n\n📖 End-to-End Worked Examples\npharmaverse.github.io/examples\nA curated library of fully worked clinical reporting examples that show how pharmaverse packages fit together in a real pipeline.\n\nUses consistent source data from pharmaversesdtm and pharmaverseadam\nCovers ADaM dataset creation, Tables, Listings & Graphs (TLGs)\nIncludes PK/PD and Therapeutic Area–specific analyses"
+    "text": "pharmaverse Examples\nResource 2\n\n\n\n\n📖 End-to-End Worked Examples\npharmaverse.github.io/examples\nA curated library of fully worked clinical reporting examples that show how pharmaverse packages fit together in a real pipeline.\n\nUses consistent source data from pharmaversesdtm and pharmaverseadam\nCovers ADaM dataset creation, Tables, Listings & Graphs (TLGs)\nIncludes PK/PD and Therapeutic Area–specific analyses"
   },
   {
     "objectID": "index.html#pharmaverse-examples-key-features",
@@ -53,14 +46,7 @@
     "href": "index.html#pharmaverse-blog",
     "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Blog",
-    "text": "pharmaverse Blog"
-  },
-  {
-    "objectID": "index.html#what-is-the-pharmaverse-blog",
-    "href": "index.html#what-is-the-pharmaverse-blog",
-    "title": "Welcome to the pharmaverse!",
-    "section": "What is the pharmaverse Blog?",
-    "text": "What is the pharmaverse Blog?\n\n\n\npharmaverse.github.io/blog\n\n📝 Community-Driven Clinical R Blog\nThe pharmaverse blog promotes and showcases R use in the clinical reporting pipeline through short, personalized, and reproducible posts.\nWhat you’ll find\n\nWalkthroughs of pharmaverse packages and functions\nReal-world R experiences in clinical programming\nConference recaps and community spotlights\nTips, tricks, and patterns for clinical data work\n\nSpirit of every post\n✅ Short (&lt; 10 min read) · ✅ Personalized · ✅ Reproducible · ✅ Introductory"
+    "text": "pharmaverse Blog\nResource 3\n\n\n\npharmaverse.github.io/blog\n\n📝 Community-Driven Clinical R Blog\nThe pharmaverse blog promotes and showcases R use in the clinical reporting pipeline through short, personalized, and reproducible posts.\nWhat you’ll find\n\nWalkthroughs of pharmaverse packages and functions\nReal-world R experiences in clinical programming\nConference recaps and community spotlights\nTips, tricks, and patterns for clinical data work\n\nSpirit of every post\n✅ Short (&lt; 10 min read) · ✅ Personalized · ✅ Reproducible · ✅ Introductory"
   },
   {
     "objectID": "index.html#pharmaverse-blog-key-features",
@@ -74,14 +60,7 @@
     "href": "index.html#admiral-adam-in-r-asset-library",
     "title": "Welcome to the pharmaverse!",
     "section": "admiral — ADaM in R Asset Library",
-    "text": "admiral — ADaM in R Asset Library"
-  },
-  {
-    "objectID": "index.html#what-is-admiral",
-    "href": "index.html#what-is-admiral",
-    "title": "Welcome to the pharmaverse!",
-    "section": "What is admiral?",
-    "text": "What is admiral?\n\n\n\npharmaverse.github.io/admiral\n\n🚢 The core ADaM-building package\nadmiral is an open-source, modular toolbox for creating ADaM datasets in R, developed jointly by Roche and GSK — and now maintained by the wider pharmaverse community.\nCore design principles\n\n\n\nPrinciple\nMeaning\n\n\n\n\nUsability\nEasy to read and write by clinical programmers\n\n\nSimplicity\nSingle, well-defined purpose per function\n\n\nFindability\nConsistent naming so functions are easy to find\n\n\nReadability\nCode reads like a specification"
+    "text": "admiral — ADaM in R Asset Library\nResource 4\n\n\n\npharmaverse.github.io/admiral\n\n🚢 The core ADaM-building package\nadmiral is an open-source, modular toolbox for creating ADaM datasets in R, developed jointly by Roche and GSK — and now maintained by the wider pharmaverse community.\nCore design principles\n\n\n\nPrinciple\nMeaning\n\n\n\n\nUsability\nEasy to read and write by clinical programmers\n\n\nSimplicity\nSingle, well-defined purpose per function\n\n\nFindability\nConsistent naming so functions are easy to find\n\n\nReadability\nCode reads like a specification"
   },
   {
     "objectID": "index.html#admiral-key-features",
@@ -95,14 +74,7 @@
     "href": "index.html#pharmaverse-data-packages",
     "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Data Packages",
-    "text": "pharmaverse Data Packages"
-  },
-  {
-    "objectID": "index.html#pharmaversesdtm-sdtm-test-data",
-    "href": "index.html#pharmaversesdtm-sdtm-test-data",
-    "title": "Welcome to the pharmaverse!",
-    "section": "pharmaversesdtm — SDTM Test Data",
-    "text": "pharmaversesdtm — SDTM Test Data\n\n\n\npharmaverse.github.io/pharmaversesdtm\n\n📦 One-stop-shop for SDTM test data\nProvides a consistent set of SDTM datasets used across pharmaverse packages and examples.\n\n\n\nDataset type\nExamples\n\n\n\n\nTA-agnostic SDTM\ndm, vs, eg, lb, ex, ae\n\n\nOncology-specific\nrs_onco, tr_onco\n\n\nOphthalmology\noe_ophtha\n\n\n\nKey features\n\nBased on CDISC pilot project data + admiral team datasets\nAvailable in both RDA and CSV formats\nInteractive Preview SDTM vignette for exploration"
+    "text": "pharmaverse Data Packages\nResource 5\n\n\n\npharmaverse.github.io/pharmaversesdtm\n\n📦 One-stop-shop for SDTM test data\nProvides a consistent set of SDTM datasets used across pharmaverse packages and examples.\n\n\n\nDataset type\nExamples\n\n\n\n\nTA-agnostic SDTM\ndm, vs, eg, lb, ex, ae\n\n\nOncology-specific\nrs_onco, tr_onco\n\n\nOphthalmology\noe_ophtha\n\n\n\nKey features\n\nBased on CDISC pilot project data + admiral team datasets\nAvailable in both RDA and CSV formats\nInteractive Preview SDTM vignette for exploration"
   },
   {
     "objectID": "index.html#pharmaverseadam-adam-test-data",
