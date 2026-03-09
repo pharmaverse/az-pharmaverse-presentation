@@ -118,3 +118,9 @@ $font-family-sans-serif: "Segoe UI", Arial, sans-serif;
   margin: 1em auto;
   max-width: 70%;
 }
+
+// Resource tile / transition slides
+.resource-tile h2 {
+  color: #ffffff;
+  border-bottom-color: rgba(255, 255, 255, 0.3);
+}
