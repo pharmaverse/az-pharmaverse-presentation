@@ -18,16 +18,16 @@ format:
 ## About the Speaker {.tour-slide}
 
 ::: bio-placeholder
-**[Your Name]**
+**Ben Straub**
 
-*Role / Team*
-
-Short bio — what you do, your connection to the pharmaverse community, and why you're excited to share this today.
+Programmer at GSK for 7 years. Working on many different open-source initiatives
+across pharmaverse and the R Consortium
 :::
 
 ---
 
 # Resource 1 {background-color="#003087"}
+
 ## The pharmaverse Organisation
 
 ---
@@ -45,11 +45,11 @@ Short bio — what you do, your connection to the pharmaverse community, and why
 :::
 
 ::: {.column width="65%"}
-The **pharmaverse** is a **council of companies** working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting.
+The **pharmaverse** is a **council of companies** working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting. Python is also starting to make an appearance!
 
 ### Why it matters
 - Reduces duplicated effort across companies
-- Provides **opinionated, curated** package recommendations
+- Provides **slightly-opinionated, curated** package recommendations
 - Covers the **end-to-end** clinical reporting pipeline: SDTM → ADaM → TLGs
 - Freely available to the entire industry
 :::
@@ -58,7 +58,7 @@ The **pharmaverse** is a **council of companies** working together to promote an
 
 ---
 
-## pharmaverse.org & GitHub Org {.smaller}
+## pharmaverse.org website & GitHub {.smaller}
 
 :::: {.columns}
 
