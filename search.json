@@ -4,7 +4,7 @@
     "href": "index.html#about-the-speaker",
     "title": "Welcome to the pharmaverse!",
     "section": "About the Speaker",
-    "text": "About the Speaker\n\n[Your Name]\nRole / Team\nShort bio — what you do, your connection to the pharmaverse community, and why you’re excited to share this today."
+    "text": "About the Speaker\n\nBen Straub\nProgrammer at GSK for 7 years. Working on many different open-source initiatives across pharmaverse and the R Consortium"
   },
   {
     "objectID": "index.html#todays-agenda",
@@ -18,14 +18,14 @@
     "href": "index.html#the-pharmaverse-organisation",
     "title": "Welcome to the pharmaverse!",
     "section": "The pharmaverse Organisation",
-    "text": "The pharmaverse Organisation\nResource 1\n\n\n\npharmaverse.org\ngithub.com/pharmaverse\n\nThe pharmaverse is a council of companies working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting.\nWhy it matters\n\nReduces duplicated effort across companies\nProvides opinionated, curated package recommendations\nCovers the end-to-end clinical reporting pipeline: SDTM → ADaM → TLGs\nFreely available to the entire industry"
+    "text": "The pharmaverse Organisation\nResource 1\n\n\n\npharmaverse.org\ngithub.com/pharmaverse\n\nThe pharmaverse is a council of companies working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting. Python is also starting to make an appearance!\nWhy it matters\n\nReduces duplicated effort across companies\nProvides slightly-opinionated, curated package recommendations\nCovers the end-to-end clinical reporting pipeline: SDTM → ADaM → TLGs\nFreely available to the entire industry"
   },
   {
-    "objectID": "index.html#pharmaverse.org-github-org",
-    "href": "index.html#pharmaverse.org-github-org",
+    "objectID": "index.html#pharmaverse.org-website-github",
+    "href": "index.html#pharmaverse.org-website-github",
     "title": "Welcome to the pharmaverse!",
-    "section": "pharmaverse.org & GitHub Org",
-    "text": "pharmaverse.org & GitHub Org\n\n\n🌐 pharmaverse.org\n\nPackage discovery — search by domain or workflow stage\nCouncil membership & governance\nNews, events, and community links\n\nKey workflow coverage\n\n\n\nStage\nDomain\n\n\n\n\nData\nSDTM, ADaM\n\n\nAnalysis\nTLGs, Shiny\n\n\nSubmission\ne-Submission\n\n\n\n\n🐙 github.com/pharmaverse\n\n30+ open-source repositories\nPackages, data sets, examples, blogs\nOpen contribution model — anyone can contribute\nIssue templates, PR workflows, and community guidelines built in\n\n\n“The right tool, for the right job, collaboratively built.”"
+    "section": "pharmaverse.org website & GitHub",
+    "text": "pharmaverse.org website & GitHub\n\n\n🌐 pharmaverse.org\n\nPackage discovery — search by domain or workflow stage\nCouncil membership & governance\nNews, events, and community links\n\nKey workflow coverage\n\n\n\nStage\nDomain\n\n\n\n\nData\nSDTM, ADaM\n\n\nAnalysis\nTLGs, Shiny\n\n\nSubmission\ne-Submission\n\n\n\n\n🐙 github.com/pharmaverse\n\n30+ open-source repositories\nPackages, data sets, examples, blogs\nOpen contribution model — anyone can contribute\nIssue templates, PR workflows, and community guidelines built in\n\n\n“The right tool, for the right job, collaboratively built.”"
   },
   {
     "objectID": "index.html#pharmaverse-examples",
