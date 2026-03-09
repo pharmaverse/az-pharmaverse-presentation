@@ -54,9 +54,23 @@ After walking through each resource, we'll go on a **live tour** of all of them 
 ::::
 ---
 
-## The pharmaverse Organisation {.smaller}
+## Resource 1 {.resource-tile background-color="#003087"}
 
-### Resource 1
+::: {style="text-align:center; margin-top:2em;"}
+![](assets/img/pharmaverse_logo.png){style="width:220px; filter:drop-shadow(2px 4px 16px rgba(255,255,255,0.3));"}
+
+::: {style="color:#ffffff; font-size:1.5em; font-weight:700; margin-top:0.5em;"}
+pharmaverse.org
+:::
+
+::: {style="color:#68b3e0; font-size:1.1em;"}
+The Central Hub for Curated R Packages
+:::
+:::
+
+---
+
+## The pharmaverse Organisation {.smaller}
 
 :::: {.columns}
 
@@ -114,9 +128,23 @@ The **pharmaverse** is a **council of companies** working together to promote an
 
 ---
 
-## pharmaverse Examples {.smaller}
+## Resource 2 {.resource-tile background-color="#003087"}
 
-### Resource 2
+::: {style="text-align:center; margin-top:2em;"}
+![](assets/img/pharmaverse_examples.png){style="width:220px; border-radius:10px; box-shadow: 2px 4px 16px rgba(255,255,255,0.2);"}
+
+::: {style="color:#ffffff; font-size:1.5em; font-weight:700; margin-top:0.5em;"}
+pharmaverse Examples
+:::
+
+::: {style="color:#68b3e0; font-size:1.1em;"}
+End-to-End Worked Clinical Examples
+:::
+:::
+
+---
+
+## pharmaverse Examples {.smaller}
 
 :::: {.columns}
 
@@ -175,9 +203,23 @@ Open the Posit Cloud environment and run an example without installing anything!
 
 ---
 
-## pharmaverse Blog {.smaller}
+## Resource 3 {.resource-tile background-color="#003087"}
 
-### Resource 3
+::: {style="text-align:center; margin-top:2em;"}
+![](assets/img/pharmaverseblog_logo.png){style="width:220px; filter:drop-shadow(2px 4px 16px rgba(255,255,255,0.3));"}
+
+::: {style="color:#ffffff; font-size:1.5em; font-weight:700; margin-top:0.5em;"}
+pharmaverse Blog
+:::
+
+::: {style="color:#68b3e0; font-size:1.1em;"}
+Community-Driven Knowledge Sharing
+:::
+:::
+
+---
+
+## pharmaverse Blog {.smaller}
 
 :::: {.columns}
 
@@ -242,9 +284,23 @@ Have something to share? Open a GitHub issue or PR to the blog repository — th
 
 ---
 
-## admiral — ADaM in R Asset Library {.smaller}
+## Resource 4 {.resource-tile background-color="#003087"}
 
-### Resource 4
+::: {style="text-align:center; margin-top:2em;"}
+![](assets/img/admiral_logo.png){style="width:220px; filter:drop-shadow(2px 4px 16px rgba(255,255,255,0.3));"}
+
+::: {style="color:#ffffff; font-size:1.5em; font-weight:700; margin-top:0.5em;"}
+admiral
+:::
+
+::: {style="color:#68b3e0; font-size:1.1em;"}
+ADaM in R Asset Library
+:::
+:::
+
+---
+
+## admiral — ADaM in R Asset Library {.smaller}
 
 :::: {.columns}
 
@@ -306,9 +362,23 @@ admiral (core)
 
 ---
 
-## pharmaverse Data Packages {.smaller}
+## Resource 5 {.resource-tile background-color="#003087"}
 
-### Resource 5
+::: {style="text-align:center; margin-top:2em;"}
+![](assets/img/pharmaversesdtm_logo.png){style="width:220px; filter:drop-shadow(2px 4px 16px rgba(255,255,255,0.3));"}
+
+::: {style="color:#ffffff; font-size:1.5em; font-weight:700; margin-top:0.5em;"}
+pharmaverse Data Packages
+:::
+
+::: {style="color:#68b3e0; font-size:1.1em;"}
+Test SDTM & ADaM Datasets
+:::
+:::
+
+---
+
+## pharmaverse Data Packages {.smaller}
 
 :::: {.columns}
 
