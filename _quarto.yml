@@ -12,7 +12,7 @@ format:
     chalkboard: false
     preview-links: auto
     logo: assets/img/pharmaverse_logo.png
-    footer: "pharmaverse | AstraZeneca Presentation"
+    footer: "pharmaverse | Navitas Presentation"
     transition: slide
     background-transition: fade
     highlight-style: github
