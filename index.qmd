@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the pharamverse!"
+title: "Welcome to the pharmaverse!"
 subtitle: ""
 format:
   revealjs:
